@@ -14,6 +14,6 @@ Simply run::
       
         flask run
 
-This application uses private package which is placed at:
+This application uses private package called ``systeminfo``. This package will be installed automatically with this flask app. You can still find the ``systeminfo`` package at:
         
         <https://github.com/harshrpg/COMP30670_CookieCutter>
