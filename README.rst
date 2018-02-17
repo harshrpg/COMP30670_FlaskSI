@@ -5,7 +5,7 @@
 | Simply clone this repository and run systeminfo
 |
 | In the command prompt set the flas application environment variable::
-|\t``set FLASK_APP = app``
+|``set FLASK_APP = app``
 |
 |Simply run the flask app::
-|\t``flask run``
+|``flask run``
