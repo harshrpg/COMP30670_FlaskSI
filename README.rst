@@ -10,6 +10,8 @@ This application is developed on flask using a private package called ``systemin
       
         $ getPlatformInfo
 
-This application uses private package called ``systeminfo``. This package will be installed automatically with this flask app. You can still find the ``systeminfo`` package at:
+This application uses private package called ``systeminfo``. This package is a prerequisite of this flask app. If you haven't installed it yet then please follow below steps:
+
++ Install ``systeminfo`` by executing the following command:
         
-        <https://github.com/harshrpg/COMP30670_CookieCutter>
+	pip install git+https://github.com/harshrpg/COMP30670_CookieCutter.git
