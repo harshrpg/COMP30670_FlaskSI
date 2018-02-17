@@ -1,3 +1,5 @@
+System Information using Flask
+===============================
 | This a Flask Application which when ran onto your machine's localhost will provide the platform information.
 |
 | This application is using **Cookiecutter's** project template.
@@ -11,3 +13,6 @@ In the command prompt set the flas application environment variable::
 Simply run:: 
       
         flask run
+
+This application uses private package which is placed at::
+<https://github.com/harshrpg/COMP30670_CookieCutter>
