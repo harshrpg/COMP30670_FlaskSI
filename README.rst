@@ -6,13 +6,9 @@ This application is developed on flask using a private package called ``systemin
 
         pip install git+https://git@github.com/harshrpg/COMP30670_FlaskSI.git
 
-+ Once installation is complete, Set the ``FLASK_APP`` environment variable::  
++ Once installation is complete, simply execute the command ``getPlatformInfo``::  
       
-        set FLASK_APP = app
-
-+ Run the following command:: 
-      
-        flask run
+        $ getPlatformInfo
 
 This application uses private package called ``systeminfo``. This package will be installed automatically with this flask app. You can still find the ``systeminfo`` package at:
         
