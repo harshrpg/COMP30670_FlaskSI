@@ -1,16 +1,15 @@
 System Information using Flask
 ===============================
-| This a Flask Application which when ran onto your machine's localhost will provide the platform information.
-|
-| This application is using **Cookiecutter's** project template.
-|
-| Simply clone this repository and run systeminfo
-|
-In the command prompt set the flas application environment variable::  
+This application is developed on flask using a private package called ``systeminfo`` to display the information of the platform this app is installed on. To use this application simply follow the following steps:
++ Install this app and all its dependencies from this repository::
+
+        pip install git+https://git@github.com/harshrpg/COMP30670_FlaskSI.git
+
++ Once installation is complete, Set the ``FLASK_APP`` environment variable::  
       
         set FLASK_APP = app
 
-Simply run:: 
++ Run the following command:: 
       
         flask run
 
