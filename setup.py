@@ -7,5 +7,5 @@ setup(
     include_package_data=True,
     dependency_links=[
         'https://github.com/harshrpg/COMP30670_CookieCutter.git@master#egg=systeminfo-0.1'],
-    install_requires=['flask','sysinfo']
+    install_requires=['flask','systeminfo']
 )
