@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+
+"""Top-level package for Hello World Flask."""
+
+__author__ = """Harsh Gupta"""
+__email__ = 'harsh.gupta@ucdconnect.ie'
+__version__ = '0.1.0'
+
+from flask import Flask
+app = Flask(__name__)
+from app import views
