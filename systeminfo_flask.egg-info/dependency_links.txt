@@ -1,0 +1,1 @@
+https://github.com/harshrpg/COMP30670_CookieCutter/tarball/master#egg=systeminfo-0.1
