@@ -1,6 +1,9 @@
 import os
 from app import app
 
-if __name__=="__main__":
+def main():
     app.run(host='0.0.0.0', debug='False')
+
+if __name__=="__main__":
+    main()
     
