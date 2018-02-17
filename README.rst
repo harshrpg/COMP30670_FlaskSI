@@ -15,4 +15,4 @@ Simply run::
         flask run
 
 This application uses private package which is placed at:
-``https://github.com/harshrpg/COMP30670_CookieCutter``
+``<https://github.com/harshrpg/COMP30670_CookieCutter>``
