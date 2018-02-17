@@ -6,9 +6,5 @@ setup(
     include_package_data=True,
     install_requires=['flask'],
     dependency_links=[
-        'git+https://github.com/harshrpg/COMP30670_CookieCutter.git@master#egg=sysinfo-0.1'],
-    enrty_points='''
-        [flask.commands]
-        run_app=run:main
-    '''
+        'https://github.com/harshrpg/COMP30670_CookieCutter/tarball/master#egg=systeminfo-0.1']
 )
