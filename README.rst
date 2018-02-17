@@ -1,6 +1,7 @@
 System Information using Flask
 ===============================
 This application is developed on flask using a private package called ``systeminfo`` to display the information of the platform this app is installed on. To use this application simply follow the following steps:
+
 + Install this app and all its dependencies from this repository::
 
         pip install git+https://git@github.com/harshrpg/COMP30670_FlaskSI.git
