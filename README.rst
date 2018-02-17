@@ -6,8 +6,8 @@
 |
 In the command prompt set the flas application environment variable::  
       
-        ``set FLASK_APP = app``
+        set FLASK_APP = app
 
 Simply run:: 
       
-        ``flask run``
+        flask run
